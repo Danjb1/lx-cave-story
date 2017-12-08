@@ -1,0 +1,20 @@
+[General]
+Name = Spur
+Type = WPN_BEAM
+Recoil = 10
+Recharge = 1
+Drain = 5
+ROF = 0
+#Sound = Spur.wav
+
+[Beam]
+Damage = 20
+PlayerDamage = 6
+Colour = 255,255,255
+Length = 99999
+
+#[Projectile]
+#Amount = 1
+#Speed = 20
+#Spread = 0
+#Projectile = Spur Charge.txt

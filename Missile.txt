@@ -1,0 +1,32 @@
+[General]
+Type = PRJ_IMAGE
+Image = Missile.png
+UseAngle = True
+AngleImages = 10
+Trail = TRL_PROJECTILE
+Gravity = 5
+Dampening = 1.01
+
+[Hit]
+Type = Explode
+Damage = 5
+Projectiles = True
+Shake = 4
+Sound = Missile Hit.wav
+
+[PlayerHit]
+Type = Injure
+Damage = 30
+
+[Projectile]
+Amount = 8
+Speed = 30
+SpeedVar = 15
+Spread = 360
+Projectile = Missile Radius.txt
+
+[ProjectileTrail]
+Amount = 1
+Speed = 0
+Delay = 50
+Projectile = Missile Smoke.txt

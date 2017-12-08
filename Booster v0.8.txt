@@ -1,0 +1,14 @@
+[General]
+Name = Booster v0.8
+#Recoil = -1
+Recoil = 0
+Recharge = 5
+Drain = 1
+ROF = 20
+Sound = Booster v0.8.wav
+
+[Projectile]
+Amount = 4
+Speed = -240
+Spread = 10
+Projectile = Booster v0.8 Droppage.txt

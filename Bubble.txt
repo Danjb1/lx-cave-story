@@ -1,0 +1,25 @@
+[General]
+Type = PRJ_IMAGE
+Image = Bubbler.png
+Animating = True
+AnimRate = 10
+AnimType = ANI_LOOP
+Trail = TRL_NONE
+Gravity = -5
+Dampening = 1.01
+Timer = 5
+TimerVar = 1
+
+[Hit]
+Type = Explode
+Damage = 2
+Shake = 2
+Sound = Bubbler Hit.wav
+
+[PlayerHit]
+Type = Injure
+Damage = 11
+
+[Time]
+Type = Explode
+Damage = 2

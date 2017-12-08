@@ -1,0 +1,23 @@
+[General]
+Type = PRJ_IMAGE
+Image = Blade Trail.png
+UseAngle = True
+AngleImages = 4
+Trail = TRL_NONE
+Gravity = 0
+Dampening = 0.98
+Timer = 0.6
+TimerVar = 0.2
+
+[Hit]
+Type = Explode
+Damage = -1
+Shake = 1
+
+[PlayerHit]
+Type = Injure
+Damage = 10
+
+[Time]
+Type = Explode
+Damage = -1

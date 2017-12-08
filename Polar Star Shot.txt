@@ -1,0 +1,25 @@
+[General]
+Type = PRJ_IMAGE
+Image = Polar Star.png
+UseAngle = True
+AngleImages = 10
+Trail = TRL_NONE
+Gravity = 0
+Timer = 0.6
+TimerVar = 0.1
+
+[Hit]
+Type = Explode
+Damage = 2
+Shake = 1
+Sound = Polar Star Hit.wav
+
+[PlayerHit]
+Type = Injure
+Damage = 20
+Shake = 1
+
+[Time]
+Type = Explode
+Damage = 2
+Shake = 1

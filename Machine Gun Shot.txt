@@ -1,0 +1,26 @@
+[General]
+Type = PRJ_IMAGE
+Image = Machine Gun.png
+UseAngle = True
+AngleImages = 10
+Trail = TRL_NONE
+Gravity = 0
+Timer = 0.8
+TimerVar = 0.1
+
+[Hit]
+Type = Explode
+Damage = 2
+Shake = 1
+Sound = Machine Gun Hit.wav
+
+[PlayerHit]
+Type = Explode
+Damage = 5
+Shake = 1
+#Sound = Machine Gun Hit.wav
+
+[Time]
+Type = Explode
+Damage = 2
+Shake = 1

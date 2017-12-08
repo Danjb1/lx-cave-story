@@ -1,0 +1,15 @@
+[General]
+Name = Machine Gun
+Class = WCL_AUTOMATIC
+Recoil = 30
+Recharge = 3
+Drain = 1
+ROF = 110
+Sound = Machine Gun.wav
+
+[Projectile]
+Amount = 1
+Speed = 320
+SpeedVar = 2
+Spread = 1
+Projectile = Machine Gun Shot.txt

@@ -1,0 +1,15 @@
+[General]
+Name = Life Pot
+Class = WCL_MISSILE
+Recoil = 0
+Recharge = 0
+Drain = 101
+ROF = 1000
+Sound = Throw.wav
+
+[Projectile]
+Amount = 1
+Speed = 40
+SpeedVar = 10
+Spread = 3
+Projectile = Life Pot Shot.txt

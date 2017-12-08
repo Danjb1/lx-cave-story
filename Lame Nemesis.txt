@@ -1,0 +1,17 @@
+[General]
+#Name = Nemesis
+#Name = Lamesis
+Name = Nemises
+Class = WCL_MISSILE
+Recoil = 0
+Recharge = 10
+Drain = 21
+ROF = 250
+Sound = Quack.wav
+
+[Projectile]
+Amount = 1
+Speed = 80
+SpeedVar = 5
+Spread = 1
+Projectile = Lame Nemesis Shot.txt

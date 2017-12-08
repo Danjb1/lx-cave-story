@@ -1,0 +1,15 @@
+[General]
+Name = Polar Star
+Class = WCL_MISSILE
+Recoil = 0
+Recharge = 5
+Drain = 51
+ROF = 240
+Sound = Polar Star.wav
+
+[Projectile]
+Amount = 1
+Speed = 120
+SpeedVar = 5
+Spread = 0
+Projectile = Polar Star Shot.txt

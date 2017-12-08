@@ -1,0 +1,32 @@
+[General]
+ModName = Cave Story
+
+[Weapons]
+NumWeapons = 13
+Weapon1 = Machine Gun.txt
+Weapon2 = Missile Launcher.txt
+Weapon3 = Nemesis.txt
+Weapon4 = Polar Star.txt
+Weapon5 = Snake.txt
+Weapon6 = Spur.txt
+Weapon7 = Blade.txt
+Weapon8 = Booster v0.8.txt
+Weapon9 = Booster v2.0.txt
+Weapon10 = Bubbler.txt
+Weapon11 = Fireball.txt
+Weapon12 = Life Pot.txt
+Weapon13 = Lame Nemesis.txt
+
+[NinjaRope]
+RopeLength = 275
+RestLength = 30
+Strength = 4
+
+[Worm]
+AngleSpeed = 350
+GroundSpeed = 6
+AirSpeed = 4
+Gravity = 120
+JumpForce = -55
+AirFriction = 0
+GroundFriction = 1

@@ -1,0 +1,14 @@
+[General]
+Name = Booster v2.0
+Recoil = -110
+Recharge = 3
+Drain = 26
+ROF = 500
+Sound = Booster v2.0.wav
+
+[Projectile]
+Amount = 16
+Speed = -30
+Speedvar = 30
+Spread = 10
+Projectile = Booster v2.0 Graphic.txt

@@ -1,0 +1,15 @@
+[General]
+Name = Snake
+Class = WCL_MISSILE
+Recoil = 1
+Recharge = 3
+Drain = 26
+ROF = 300
+Sound = Snake.wav
+
+[Projectile]
+Amount = 1
+Speed = 150
+SpeedVar = 30
+Spread = 20
+Projectile = Snake Shot.txt

@@ -1,0 +1,15 @@
+[General]
+Name = Fireball
+Class = WCL_MISSILE
+Recoil = 1
+Recharge = 5
+Drain = 11
+ROF = 250
+Sound = Fireball.wav
+
+[Projectile]
+Amount = 1
+Speed = 100
+SpeedVar = 20
+Spread = 3
+Projectile = Fireball Shot.txt

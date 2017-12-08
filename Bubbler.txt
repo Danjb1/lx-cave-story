@@ -1,0 +1,15 @@
+[General]
+Name = Bubbler
+Class = WCL_MISSILE
+Recoil = 1
+Recharge = 5
+Drain = 2
+ROF = 150
+Sound = Bubbler.wav
+
+[Projectile]
+Amount = 1
+Speed = 15
+SpeedVar = 5
+Spread = 20
+Projectile = Bubble.txt

@@ -1,0 +1,30 @@
+[General]
+Type = PRJ_IMAGE
+Image = Blade.png
+Rotating = True
+RotIncrement = 90
+RotSpeed = 800
+Gravity = 5
+Timer = 0.3
+
+[Hit]
+Type = Explode
+Damage = 2
+Shake = 2
+Sound = Blade Hit.wav
+
+[PlayerHit]
+Type = Injure
+Damage = 21
+
+[Time]
+Type = Explode
+Damage = -1
+Projectiles = True
+
+[Projectile]
+Amount = 1
+UseAngle = True
+Speed = 140
+SpeedVar = 5
+Projectile = Blade Shot.txt

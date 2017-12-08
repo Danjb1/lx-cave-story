@@ -1,0 +1,14 @@
+[General]
+Type = PRJ_IMAGE
+Image = Fireball Trail.png
+Animating = True
+AnimRate = 10
+AnimType = ANI_ONCE
+Gravity = 0
+Dampening = 0.9
+
+[Hit]
+Type = Nothing
+
+[PlayerHit]
+Type = Nothing

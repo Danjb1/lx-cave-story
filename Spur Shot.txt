@@ -1,0 +1,30 @@
+[General]
+Type = PRJ_IMAGE
+Image = Spur.png
+UseAngle = True
+AngleImages = 10
+Gravity = 0
+Trail = TRL_PROJECTILE
+
+[Hit]
+Type = Explode
+Damage = 5
+Shake = 4
+Projectiles = True
+
+[PlayerHit]
+Type = Injure
+Damage = 500
+
+[Projectile]
+Amount = 360
+Speed = 50
+Spread = 360
+Projectile = Spur Damage Radius.txt
+
+[ProjectileTrail]
+Amount = 360
+Speed = 50
+Spread = 360
+Delay = 30
+Projectile = Spur Damage Radius.txt
